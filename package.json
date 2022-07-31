@@ -1,0 +1,25 @@
+{
+  "name": "common-objects-in-arrays",
+  "version": "1.0.5",
+  "description": "This will return the array of objects that are common in a set of array of objects based on single or multiple keys ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "of",
+    "objects",
+    "intersection",
+    "array",
+    "objects",
+    "common",
+    "key",
+    "intersection of objects in array of objects",
+    "common objects",
+    "common objects in arrays",
+    "array of objects"
+  ],
+  "author": "pradeepaanumalla",
+  "license": "ISC"
+}
